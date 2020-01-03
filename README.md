@@ -1,3 +1,10 @@
+<h1 align="center">
+  GPlace Site
+</h1>
+<h5 align="center">
+  Sample Gatsby Site using headless CrafterCMS
+</h5>
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
